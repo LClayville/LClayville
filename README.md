@@ -14,6 +14,9 @@ Email (Aliased for privacy): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.em
 **Position:** Android Development Intern
 
 **Responsibilities:** Help the ZING team to create an Android app to scan for RemoteID modules.
+- Interface to pull data from serial port
+- Parse RemoteID data and store it
+- 3d [Cesium](https://cesium.com/) view that can show active drones
 
 **Time:** 2024-06 to present
 
