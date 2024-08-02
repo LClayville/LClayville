@@ -13,7 +13,7 @@ Email (Aliased for privacy): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.em
 ### ZING
 **Position:** Android Development Intern
 
-**Responsibilities** Help the ZING team to create an Android app to scan for RemoteID modules.
+**Responsibilities:** Help the ZING team to create an Android app to scan for RemoteID modules.
 
 **Time:** 2024-06 to present
 
