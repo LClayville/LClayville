@@ -1,4 +1,4 @@
-# LUKE CLAYVILLE
+# **LUKE CLAYVILLE** - Intern at ZING
 ## Education
 High School Diploma
 
