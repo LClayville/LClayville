@@ -23,18 +23,34 @@ https://www.zingdrones.com/
 ### Linux desktop and server management
 | Tool | Skill level |
 | ---- | ----------- |
-| SSH    | ⭐⭐⭐⭐🌑  |
-| BASH   | ⭐⭐⭐⭐🌑  |
-| Git    | ⭐⭐⭐🌑🌑  |
-| Docker | ⭐⭐🌑🌑🌑  |
-
-### Robotics
-
-### UAS
+| SSH        | ⭐⭐⭐⭐🌑 |
+| BASH       | ⭐⭐⭐⭐🌑 |
+| Powershell | ⭐⭐🌑🌑🌑 |
+| Git        | ⭐⭐⭐🌑🌑 |
+| Docker     | ⭐⭐🌑🌑🌑 |
 
 ### Programming Languages
 | Language | Skill level |
 | -------- | ----------- |
-| Python   | ⭐⭐⭐⭐🌑 |
-| Kotlin   | ⭐⭐⭐🌑🌑 |
-| Rust     | ⭐🌑🌑🌑🌑 |
+| Python | ⭐⭐⭐⭐🌑 |
+| Kotlin | ⭐⭐⭐🌑🌑 |
+| Rust   | ⭐🌑🌑🌑🌑 |
+| C#     | ⭐⭐🌑🌑🌑 |
+
+### Robotics
+| Skill | Level |
+| ----- | ----- |
+| Engineering            | ⭐⭐⭐🌑🌑 |
+| Design                 | ⭐⭐⭐🌑🌑 |
+| Autonomous Programming | ⭐⭐⭐⭐🌑 |
+
+### Virtual Reality
+| Skill | Level |
+| ----- | ----- |
+| Unity Development | ⭐⭐⭐🌑🌑 |
+
+### UAS
+| Skill | Level |
+| ----- | ----- |
+| Piloting              | ⭐⭐⭐⭐🌑 |
+| FAA 107 Certification | ⭐⭐⭐🌑🌑 |
