@@ -8,11 +8,11 @@ High School Diploma[^1]
 ## Contact Information
 I prefer [Signal](signal.org) over other forms of communication due to its security and privacy but I am willing to use email if Signal is inconvenient.
 
-Signal: [donnie.66](https://signal.me/#eu/chePEr2Cxrj_USExoCN_0Sk_CLfIkAkNdZMrv1ws1-Mr2q17G95FfpQ32dAjaA0)
+**Signal**: [donnie.66](https://signal.me/#eu/chePEr2Cxrj_USExoCN_0Sk_CLfIkAkNdZMrv1ws1-Mr2q17G95FfpQ32dAjaA0)
 
-Email (Aliased for security): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.emphasis259@slmail.me)
+**Email** (Aliased for security): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.emphasis259@slmail.me)
 
-LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/)
+**LinkedIn**: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/)
 
 ## Experience
 ### [ZING](https://www.zingdrones.com/)
