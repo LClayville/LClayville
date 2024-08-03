@@ -59,7 +59,7 @@ LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/
 ### UAS
 | Skill | Level |
 | ----- | ----- |
-| Piloting                  | ⭐⭐⭐⭐🌑 |
+| Drone Piloting            | ⭐⭐⭐⭐🌑 |
 | FAA 107 Certification[^2] | ⭐⭐⭐🌑🌑 |
 
 ## Footnotes
