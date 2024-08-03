@@ -40,8 +40,10 @@ I prefer [Signal](signal.org) over other forms of communication due to its secur
 | -------- | ----------- |
 | Python | ⭐⭐⭐⭐🌑 |
 | Kotlin | ⭐⭐⭐🌑🌑 |
-| Rust   | ⭐🌑🌑🌑🌑 |
 | C#     | ⭐⭐🌑🌑🌑 |
+| Java   | ⭐⭐🌑🌑🌑 |
+| Rust   | ⭐🌑🌑🌑🌑 |
+| C      | ⭐🌑🌑🌑🌑 |
 
 ### Robotics
 | Skill | Level |
