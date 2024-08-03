@@ -3,7 +3,7 @@
 
 *This is my first Markdown resumé so I am **very** open to constructive critisism and pull requests!*
 ## Education
-High School Diploma
+High School Diploma[^1]
 
 ## Contact Information
 I prefer [Signal](signal.org) over other forms of communication due to its security and privacy but I am willing to use email if Signal is inconvenient.
@@ -60,7 +60,8 @@ LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/
 | Skill | Level |
 | ----- | ----- |
 | Piloting                  | ⭐⭐⭐⭐🌑 |
-| FAA 107 Certification[^1] | ⭐⭐⭐🌑🌑 |
+| FAA 107 Certification[^2] | ⭐⭐⭐🌑🌑 |
 
 ## Footnotes
-[^1]: I have taken a Part-107 course online and have the skills to complete the exam. I have not yet taken said exam.
+[^1]: The name of my school could be used to find my location so if you need to know about my education, please email me and I will give you the information you need.
+[^2]: I have taken a Part-107 course online and have the skills to complete the exam. I have not yet taken said exam.
