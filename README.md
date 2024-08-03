@@ -59,5 +59,8 @@ LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/
 ### UAS
 | Skill | Level |
 | ----- | ----- |
-| Piloting              | ⭐⭐⭐⭐🌑 |
-| FAA 107 Certification | ⭐⭐⭐🌑🌑 |
+| Piloting                  | ⭐⭐⭐⭐🌑 |
+| FAA 107 Certification[^1] | ⭐⭐⭐🌑🌑 |
+
+## Footnotes
+[^1]: I have taken a Part-107 course online and have the skills to complete the exam. I have not yet taken said exam.
