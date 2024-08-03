@@ -31,7 +31,6 @@ LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/
 | ---- | ----------- |
 | SSH        | ⭐⭐⭐⭐🌑 |
 | BASH       | ⭐⭐⭐⭐🌑 |
-| Powershell | ⭐⭐🌑🌑🌑 |
 | Git        | ⭐⭐⭐🌑🌑 |
 | Docker     | ⭐⭐🌑🌑🌑 |
 
