@@ -1,5 +1,5 @@
 # **LUKE CLAYVILLE** - Intern at ZING
-*As this is a public profile, some data has been omitted. I will gladly divulge more data to any prospective employers if requested.*
+*As this is a public profile, some personal data has been omitted. I will gladly divulge more data to any prospective employers if requested.*
 
 *This is my first Markdown resumé so I am **very** open to constructive critisism and pull requests!*
 ## Education
@@ -10,7 +10,7 @@ I prefer [Signal](signal.org) over other forms of communication due to its secur
 
 Signal: [donnie.66](https://signal.me/#eu/chePEr2Cxrj_USExoCN_0Sk_CLfIkAkNdZMrv1ws1-Mr2q17G95FfpQ32dAjaA0)
 
-Email (Aliased for privacy): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.emphasis259@slmail.me)
+Email (Aliased for security): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.emphasis259@slmail.me)
 
 LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/)
 
