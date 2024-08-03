@@ -50,10 +50,11 @@ LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/
 | Design                 | ⭐⭐⭐🌑🌑 |
 | Autonomous Programming | ⭐⭐⭐⭐🌑 |
 
-### Virtual Reality
+### Game Development
 | Skill | Level |
 | ----- | ----- |
-| Unity Development | ⭐⭐⭐🌑🌑 |
+| Unity          | ⭐⭐⭐🌑🌑 |
+| VR Game Design | ⭐⭐🌑🌑🌑 |
 
 ### UAS
 | Skill | Level |
