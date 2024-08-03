@@ -9,6 +9,8 @@ Signal: [donnie.66](https://signal.me/#eu/chePEr2Cxrj_USExoCN_0Sk_CLfIkAkNdZMrv1
 
 Email (Aliased for privacy): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.emphasis259@slmail.me)
 
+LinkedIn: [Luke Clayville](https://www.linkedin.com/in/luke-clayville-753227292/)
+
 ## Experience
 ### [ZING](https://www.zingdrones.com/)
 **Position:** Android Development Intern
