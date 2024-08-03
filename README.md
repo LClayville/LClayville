@@ -10,7 +10,7 @@ Signal: [donnie.66](https://signal.me/#eu/chePEr2Cxrj_USExoCN_0Sk_CLfIkAkNdZMrv1
 Email (Aliased for privacy): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.emphasis259@slmail.me)
 
 ## Experience
-### ZING
+### [ZING](https://www.zingdrones.com/)
 **Position:** Android Development Intern
 
 **Responsibilities:** Help the ZING team to create an Android app to scan for RemoteID modules.
@@ -19,8 +19,6 @@ Email (Aliased for privacy): [lcgithub.emphasis259@slmail.me](mailto:lcgithub.em
 - 3d [Cesium](https://cesium.com/) view that can show active drones
 
 **Time:** 2024-06 to present
-
-https://www.zingdrones.com/
 
 ## Skills
 ### Linux desktop and server management
