@@ -32,8 +32,8 @@ I prefer [Signal](signal.org) over other forms of communication due to its secur
 | SSH             | ⭐⭐⭐⭐🌑 |
 | BASH            | ⭐⭐⭐⭐🌑 |
 | Git             | ⭐⭐⭐🌑🌑 |
-| Docker          | ⭐⭐🌑🌑🌑 |
 | Immutable Linux | ⭐⭐⭐🌑🌑 |
+| Docker          | ⭐⭐🌑🌑🌑 |
 
 ### Programming Languages
 | Language | Skill level |
@@ -48,9 +48,9 @@ I prefer [Signal](signal.org) over other forms of communication due to its secur
 ### Robotics
 | Skill | Level |
 | ----- | ----- |
+| Autonomous Programming | ⭐⭐⭐⭐🌑 |
 | Engineering            | ⭐⭐⭐🌑🌑 |
 | Design                 | ⭐⭐⭐🌑🌑 |
-| Autonomous Programming | ⭐⭐⭐⭐🌑 |
 
 ### Game Development
 | Skill | Level |
