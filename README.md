@@ -3,7 +3,7 @@
 High School Diploma
 
 ## Contact Information
-I prefer Signal over other forms of communication due to its security and privacy but I am willing to use email if Signal is inconvenient.
+I prefer [Signal](signal.org) over other forms of communication due to its security and privacy but I am willing to use email if Signal is inconvenient.
 
 Signal: [donnie.66](https://signal.me/#eu/chePEr2Cxrj_USExoCN_0Sk_CLfIkAkNdZMrv1ws1-Mr2q17G95FfpQ32dAjaA0)
 
