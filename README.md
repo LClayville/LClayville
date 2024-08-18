@@ -1,7 +1,7 @@
 # **LUKE CLAYVILLE** - Intern at ZING
 *As this is a public profile, some personal data has been omitted. I will gladly divulge more data to any prospective employers if requested.*
 
-*This is my first Markdown resumé so I am **very** open to constructive critisism and pull requests!*
+*This is my first Markdown resumé so I am **very** open to constructive criticism and pull requests!*
 ## Education
 High School Diploma[^1]
 
